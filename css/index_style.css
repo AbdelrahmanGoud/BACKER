@@ -15,16 +15,10 @@ body
 }
 .logonav
 {
-      width:50%;
+ width:150px;
 }
 
-@media screen and (max-width:991px) 
-{
-      .logonav
-      {
-            width:150px;
-      }    
-}
+
 
 .layar
 {
